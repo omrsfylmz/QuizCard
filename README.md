@@ -1,4 +1,4 @@
-# Quiz App
+# Quiz Card
 ![Project Image](https://i.ibb.co/QPCk3WW/Screen-Shot-2020-12-19-at-19-53-43.png)
 > This is a ReadMe template to help save you time and effort.
 ---
